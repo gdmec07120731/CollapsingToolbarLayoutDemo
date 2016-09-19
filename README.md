@@ -1,6 +1,7 @@
 # CollapsingToolbarLayoutDemo
 ###CollapsingToolbarLayout示例###
-滑动NestedScrollView 显示或者隐藏CollapsingToolbarLayout图片
+滑动NestedScrollView 显示或者隐藏CollapsingToolbarLayout图片，
+
 他的用法就是CoodinatorLayout包着AppBarLayout包着CollapsingToolbarLayout 包着ImageView和Toolbar。
 
 
